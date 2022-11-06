@@ -1,0 +1,55 @@
+
+
+
+FOR FILE f1.txt ::---
+there - 1
+this - 2
+is - 1
+new - 1
+our - 0
+and - 1
+
+
+FOR FILE f2.txt ::---
+there - 2
+this - 2
+is - 2
+new - 1
+our - 2
+and - 0
+
+
+FOR FILE f3.txt ::---
+there - 1
+this - 2
+is - 2
+new - 1
+our - 2
+and - 3
+
+
+FOR FILE f4.txt ::---
+there - 1
+this - 2
+is - 1
+new - 1
+our - 0
+and - 1
+
+
+FOR FILE f5.txt ::---
+there - 1
+this - 0
+is - 3
+new - 1
+our - 3
+and - 1
+
+
+FOR FILE f6.txt ::---
+there - 2
+this - 2
+is - 4
+new - 2
+our - 0
+and - 0

@@ -1,0 +1,45 @@
+
+-------------------------BOOK ISSUE---------------------------
+NAME: imon raj	EMAIL: imon@gmail.com	ADDRESS: jadavpur	MEMBER ID: 12	Faculty: NO
+Book Name: dsa	Book Id: 111	Author: n karumanchi	Publisher: c monk
+Price: 1299	SERIAL NO.: 100
+
+-------------------------BOOK ISSUE---------------------------
+NAME: imon raj	EMAIL: imon@gmail.com	ADDRESS: jadavpur	MEMBER ID: 12	Faculty: NO
+Book Name: oop	Book Id: 222	Author: r martin	Publisher: arihant
+Price: 2399	SERIAL NO.: 100
+
+-------------------------BOOK RETURN---------------------------
+NAME: imon raj	EMAIL: imon@gmail.com	ADDRESS: jadavpur	MEMBER ID: 12	Faculty: NO
+Book Name: dsa	Book Id: 111	Author: n karumanchi	Publisher: c monk
+Price: 1299	SERIAL NO.: 100
+
+-------------------------BOOK ISSUE---------------------------
+NAME: sanjoy kumar	EMAIL: sanjoy@a.com	ADDRESS: jadvapur	MEMBER ID: 23	Faculty: YES
+Book Name: oop	Book Id: 222	Author: r martin	Publisher: arihant
+Price: 2399	SERIAL NO.: 200
+
+-------------------------BOOK RETURN---------------------------
+NAME: sanjoy kumar	EMAIL: sanjoy@a.com	ADDRESS: jadvapur	MEMBER ID: 23	Faculty: YES
+Book Name: oop	Book Id: 222	Author: r martin	Publisher: arihant
+Price: 2399	SERIAL NO.: 200
+
+-------------------------BOOK ISSUE---------------------------
+NAME: imon	EMAIL: imon@g.com	ADDRESS: ju	MEMBER ID: 13	Faculty: NO
+Book Name: dsa	Book Id: 222	Author: dsa	Publisher: dsa
+Price: 1200	SERIAL NO.: 100
+
+-------------------------BOOK RETURN---------------------------
+NAME: imon	EMAIL: imon@g.com	ADDRESS: ju	MEMBER ID: 13	Faculty: NO
+Book Name: dsa	Book Id: 222	Author: dsa	Publisher: dsa
+Price: 1200	SERIAL NO.: 100
+
+-------------------------BOOK ISSUE---------------------------
+NAME: imon	EMAIL: imon@g.com	ADDRESS: ju	MEMBER ID: 13	Faculty: NO
+Book Name: dsa	Book Id: 222	Author: dsa	Publisher: dsa
+Price: 1200	SERIAL NO.: 100
+
+-------------------------BOOK ISSUE---------------------------
+NAME: imon	EMAIL: imon@g.com	ADDRESS: ju	MEMBER ID: 13	Faculty: NO
+Book Name: oop	Book Id: 333	Author: oop	Publisher: oop
+Price: 899	SERIAL NO.: 150
